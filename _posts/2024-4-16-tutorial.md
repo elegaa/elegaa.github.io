@@ -100,7 +100,7 @@ npm -v
 
 # 二、选择合适的主题
 
-[jeklly](https://jekyllthemes.org/)提供许多不同特点的模版  
+jeklly提供许多不同特点的模版  
 ![](/assets/img/2024-04-15 18.40.02.png)
 此处选用的是[Chripy](https://chirpy.cotes.page/posts/getting-started/)
 
